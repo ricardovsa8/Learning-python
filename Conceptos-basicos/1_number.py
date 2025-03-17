@@ -17,6 +17,7 @@ print (positive_int)
 print (negative_int)
 print (zero)
 print(type(negative_int))
+
 #2. Float
 positive_float = 1.497
 negative_float = -2.9987654
@@ -26,6 +27,7 @@ print(positive_float)
 print(negative_float)
 print(exponent_float)
 print(type(exponent_float))
+
 #3. Complex
 complex_num = -5 + 2j
 print(complex_num)
